@@ -413,6 +413,18 @@ ol {
 	padding-top: 70px;
 }
 
+.hero-info a:link {
+	color: #808181;
+}
+
+.hero-info a:hover {
+	color: #40424a;
+}
+
+.hero-info a:visited {
+	color: #808181;
+}
+
 .hero-info h2 {
 	margin-bottom: 30px;
 }
@@ -442,7 +454,7 @@ ol {
 -----------------------*/
 .social-section {
 	background: #f9f9f9;
-	padding: 80px 0;
+	padding: 45px 0;
 }
 
 .social-section .social-links {
@@ -457,6 +469,8 @@ ol {
 	font-size: 36px;
 	margin-right: 40px;
 }
+
+
 
 .social-section .social-link-warp {
 	position: relative;
